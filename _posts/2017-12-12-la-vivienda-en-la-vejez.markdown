@@ -1,13 +1,16 @@
 ---
 layout: post
-title: My Current Research
+title: 'My last book <em>La vivienda en la vejez: problemas y estrategias para envejecer en sociedad</em>'
 date: 2019-12-12 00:00:00 +0300
-description: My current lines of research orbit around housing, inequality, old age, childhood and welfare system. 
-img: software.jpg # Add image post (optional)
+description:  
+img: ire-book-chico.jpg # Add image post (optional)
 tags: [Research, Publications] # add tag
 ---
 
-My current lines of research orbit around housing, inequality, old age, childhood and welfare system. 
+I'm happy to announce that my book **La vivienda en la vejez: problemas y estrategias para envejecer en sociedad** has just been published.
+
+<img align="left" width="100" src="https://jamaltoutouh.github.io/lebmur/assets/img/ire-book-grande.jpg">
+
 
 ### I am working on updating the content
 
