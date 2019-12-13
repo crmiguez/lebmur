@@ -11,6 +11,11 @@ My current lines of research orbit around housing, inequality, old age, childhoo
 
 ## Sorry! I am working on updating the content...
 
+Meanwhile you can visit my profiles on:
+- [Google scholar](https://scholar.google.es/citations?user=IhPQe4sAAAAJ&hl=en "Google scholar")
+- [Academia](https://harvard.academia.edu/IreneLebrusan "Google scholar")
+- [ResearchGate](https://www.researchgate.net/profile/Irene_Lebrusan_Murillo "Google scholar")
+
 ### Do not hesitate to contact me if you have any question.
 
 ![Work in progress]({{site.baseurl}}/assets/img/work-in-progress.jpg)
